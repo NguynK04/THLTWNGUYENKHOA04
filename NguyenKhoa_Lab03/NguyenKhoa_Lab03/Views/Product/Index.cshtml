@@ -1,0 +1,104 @@
+﻿@model IEnumerable<NguyenKhoa_Lab03.Models.Product>
+
+<h2>Danh sách sản phẩm</h2>
+
+<form method="get" asp-action="Index" class="row g-3 mb-4">
+    <div class="col-md-6">
+        <label for="searchString" class="form-label visually-hidden">Tìm kiếm sản phẩm:</label>
+        <div class="input-group">
+            <input type="text" id="searchString" name="searchString" value="@ViewData["CurrentSearchString"]"
+                   placeholder="Tìm theo tên, mô tả, danh mục..." class="form-control" />
+            <button type="submit" class="btn btn-primary">Tìm kiếm</button>
+            <a asp-action="Index" class="btn btn-secondary">Xem tất cả</a>
+        </div>
+    </div>
+
+    <div class="col-md-3">
+        <label for="priceSearchValue" class="form-label visually-hidden">Giá sản phẩm:</label>
+        <div class="input-group">
+            <span class="input-group-text">Giá</span>
+            <input type="number" id="priceSearchValue" name="priceSearchValue" value="@ViewData["CurrentPriceSearchValue"]"
+                   step="0.01" class="form-control" placeholder="Nhập giá" />
+        </div>
+    </div>
+
+    <div class="col-md-3 d-flex justify-content-end align-items-center gap-2">
+        <select name="sortOrder" class="form-select w-auto" onchange="this.form.submit()">
+            <option value="">Sắp xếp theo</option>
+            <option value="name_asc" selected="@("name_asc" == ViewData["SortOrder"]?.ToString())">Tên A-Z</option>
+            <option value="name_desc" selected="@("name_desc" == ViewData["SortOrder"]?.ToString())">Tên Z-A</option>
+            <option value="price_asc" selected="@("price_asc" == ViewData["SortOrder"]?.ToString())">Giá tăng</option>
+            <option value="price_desc" selected="@("price_desc" == ViewData["SortOrder"]?.ToString())">Giá giảm</option>
+        </select>
+        <a asp-action="Add" class="btn btn-success text-nowrap"><i class="bi bi-plus"></i> Thêm mới</a>
+    </div>
+</form>
+
+<div class="table-responsive">
+    @if (Model.Any())
+    {
+    <table class="table table-bordered table-striped">
+        <thead class="table-light">
+            <tr>
+                <th>Tên sản phẩm</th>
+                <th class="text-center">Hình ảnh</th>
+                <th class="text-end">Giá</th>
+                <th>Mô tả</th>
+                <th>Danh mục</th>
+                <th class="text-center" style="width: 200px;">Hành động</th>
+                
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var product in Model)
+            {
+                <tr>
+                    <td>@product.Name</td>
+                    <td class="text-center">
+                        @if (!string.IsNullOrEmpty(product.ImageUrl))
+                        {
+                            <img src="@product.ImageUrl" alt="@product.Name" style="max-width: 200px; max-height: 200px;" />
+                        }
+                        else
+                        {
+                            <span>Không có hình ảnh</span>
+                        }
+                    </td>
+                    <td class="text-end">@product.Price.ToString("N0")</td>
+                    <td>@product.Description</td>
+                    <td>@(product.Category != null ? product.Category.Name : "Chưa có danh mục ")</td>
+
+                    <td>
+                        <a class="btn btn-sm btn-info" asp-action="Display" asp-route-id="@product.Id" title="Xem chi tiết">
+                            <i class="bi bi-eye-fill"></i> <span class="ms-1">Xem</span>
+                        </a>
+                            @if (User.IsInRole("Admin") || User.IsInRole("Company") || User.IsInRole("Employee"))
+                            {
+                                <a asp-action="Update" asp-route-id="@product.Id" class="btn btn-outline-warning btn-sm">Sửa</a>
+                                <a asp-action="Delete" asp-route-id="@product.Id" class="btn btn-outline-danger btn-sm"
+                                   onclick="return confirm('Bạn có chắc chắn muốn xóa sản phẩm này không?');">Xóa</a>
+                            }
+                            else
+                            {
+                                <a href="#" class="btn btn-outline-secondary btn-sm" onclick="alert('Bạn không có quyền sửa sản phẩm'); return false;">Sửa</a>
+                                <a href="#" class="btn btn-outline-secondary btn-sm" onclick="alert('Bạn không có quyền xóa sản phẩm'); return false;">Xóa</a>
+                            }
+                        <a class="btn btn-sm btn-warning ms-1" asp-action="Update" asp-route-id="@product.Id" title="Chỉnh sửa">
+                            <i class="bi bi-pencil-square"></i> <span class="ms-1">Sửa</span>
+                        </a>
+                        <a class="btn btn-sm btn-danger ms-1" asp-action="Delete" asp-route-id="@product.Id" title="Xóa">
+                            <i class="bi bi-trash-fill"></i> <span class="ms-1">Xóa</span>
+                        </a>
+
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    }
+else // Nếu Model rỗng (không tìm thấy sản phẩm nào)
+{
+    <p>Không tìm thấy sản phẩm.</p>}
+
+
+</div>

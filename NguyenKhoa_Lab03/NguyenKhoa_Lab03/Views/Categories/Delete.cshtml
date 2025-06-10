@@ -1,0 +1,23 @@
+﻿@model NguyenKhoa_Lab03.Models.Category
+
+@{
+    ViewData["Title"] = "Xóa danh mục";
+}
+
+<div class="container mt-4">
+    <h2>Xóa danh mục</h2>
+
+    <div class="alert alert-danger" role="alert">
+        Bạn có chắc chắn muốn xóa danh mục <strong>@Model.Name</strong> không?
+    </div>
+
+    <form asp-action="DeleteConfirmed" method="post" class="d-flex gap-2">
+        <input type="hidden" asp-for="Id" />
+        <button type="submit" class="btn btn-danger rounded-pill">
+            <i class="bi bi-trash-fill"></i> Xóa
+        </button>
+        <a asp-action="Index" class="btn btn-outline-info rounded-pill">
+            <i class="bi bi-arrow-left-short"></i> Trở về danh sách
+        </a>
+    </form>
+</div>

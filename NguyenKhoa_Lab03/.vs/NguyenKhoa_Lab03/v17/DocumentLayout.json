@@ -1,0 +1,411 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86DA11C3-375E-4D63-8C8A-2930F508425F}|NguyenKhoa_Lab03\\NguyenKhoa_Lab03.csproj|d:\\thuchanhlaptrinhwebb\\nguyenkhoa_lab03\\nguyenkhoa_lab03\\nguyenkhoa_lab03.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{86DA11C3-375E-4D63-8C8A-2930F508425F}|NguyenKhoa_Lab03\\NguyenKhoa_Lab03.csproj|solutionrelative:nguyenkhoa_lab03\\nguyenkhoa_lab03.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86DA11C3-375E-4D63-8C8A-2930F508425F}|NguyenKhoa_Lab03\\NguyenKhoa_Lab03.csproj|d:\\thuchanhlaptrinhwebb\\nguyenkhoa_lab03\\nguyenkhoa_lab03\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86DA11C3-375E-4D63-8C8A-2930F508425F}|NguyenKhoa_Lab03\\NguyenKhoa_Lab03.csproj|solutionrelative:nguyenkhoa_lab03\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86DA11C3-375E-4D63-8C8A-2930F508425F}|NguyenKhoa_Lab03\\NguyenKhoa_Lab03.csproj|d:\\thuchanhlaptrinhwebb\\nguyenkhoa_lab03\\nguyenkhoa_lab03\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86DA11C3-375E-4D63-8C8A-2930F508425F}|NguyenKhoa_Lab03\\NguyenKhoa_Lab03.csproj|solutionrelative:nguyenkhoa_lab03\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86DA11C3-375E-4D63-8C8A-2930F508425F}|NguyenKhoa_Lab03\\NguyenKhoa_Lab03.csproj|d:\\thuchanhlaptrinhwebb\\nguyenkhoa_lab03\\nguyenkhoa_lab03\\areas\\admin\\views\\productmanager\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86DA11C3-375E-4D63-8C8A-2930F508425F}|NguyenKhoa_Lab03\\NguyenKhoa_Lab03.csproj|solutionrelative:nguyenkhoa_lab03\\areas\\admin\\views\\productmanager\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86DA11C3-375E-4D63-8C8A-2930F508425F}|NguyenKhoa_Lab03\\NguyenKhoa_Lab03.csproj|d:\\thuchanhlaptrinhwebb\\nguyenkhoa_lab03\\nguyenkhoa_lab03\\areas\\admin\\views\\productmanager\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86DA11C3-375E-4D63-8C8A-2930F508425F}|NguyenKhoa_Lab03\\NguyenKhoa_Lab03.csproj|solutionrelative:nguyenkhoa_lab03\\areas\\admin\\views\\productmanager\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86DA11C3-375E-4D63-8C8A-2930F508425F}|NguyenKhoa_Lab03\\NguyenKhoa_Lab03.csproj|d:\\thuchanhlaptrinhwebb\\nguyenkhoa_lab03\\nguyenkhoa_lab03\\areas\\admin\\controllers\\productmanagercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86DA11C3-375E-4D63-8C8A-2930F508425F}|NguyenKhoa_Lab03\\NguyenKhoa_Lab03.csproj|solutionrelative:nguyenkhoa_lab03\\areas\\admin\\controllers\\productmanagercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86DA11C3-375E-4D63-8C8A-2930F508425F}|NguyenKhoa_Lab03\\NguyenKhoa_Lab03.csproj|d:\\thuchanhlaptrinhwebb\\nguyenkhoa_lab03\\nguyenkhoa_lab03\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86DA11C3-375E-4D63-8C8A-2930F508425F}|NguyenKhoa_Lab03\\NguyenKhoa_Lab03.csproj|solutionrelative:nguyenkhoa_lab03\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86DA11C3-375E-4D63-8C8A-2930F508425F}|NguyenKhoa_Lab03\\NguyenKhoa_Lab03.csproj|d:\\thuchanhlaptrinhwebb\\nguyenkhoa_lab03\\nguyenkhoa_lab03\\areas\\admin\\views\\productmanager\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86DA11C3-375E-4D63-8C8A-2930F508425F}|NguyenKhoa_Lab03\\NguyenKhoa_Lab03.csproj|solutionrelative:nguyenkhoa_lab03\\areas\\admin\\views\\productmanager\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86DA11C3-375E-4D63-8C8A-2930F508425F}|NguyenKhoa_Lab03\\NguyenKhoa_Lab03.csproj|d:\\thuchanhlaptrinhwebb\\nguyenkhoa_lab03\\nguyenkhoa_lab03\\areas\\admin\\views\\productmanager\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86DA11C3-375E-4D63-8C8A-2930F508425F}|NguyenKhoa_Lab03\\NguyenKhoa_Lab03.csproj|solutionrelative:nguyenkhoa_lab03\\areas\\admin\\views\\productmanager\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86DA11C3-375E-4D63-8C8A-2930F508425F}|NguyenKhoa_Lab03\\NguyenKhoa_Lab03.csproj|d:\\thuchanhlaptrinhwebb\\nguyenkhoa_lab03\\nguyenkhoa_lab03\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86DA11C3-375E-4D63-8C8A-2930F508425F}|NguyenKhoa_Lab03\\NguyenKhoa_Lab03.csproj|solutionrelative:nguyenkhoa_lab03\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86DA11C3-375E-4D63-8C8A-2930F508425F}|NguyenKhoa_Lab03\\NguyenKhoa_Lab03.csproj|d:\\thuchanhlaptrinhwebb\\nguyenkhoa_lab03\\nguyenkhoa_lab03\\areas\\admin\\views\\productmanager\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86DA11C3-375E-4D63-8C8A-2930F508425F}|NguyenKhoa_Lab03\\NguyenKhoa_Lab03.csproj|solutionrelative:nguyenkhoa_lab03\\areas\\admin\\views\\productmanager\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86DA11C3-375E-4D63-8C8A-2930F508425F}|NguyenKhoa_Lab03\\NguyenKhoa_Lab03.csproj|d:\\thuchanhlaptrinhwebb\\nguyenkhoa_lab03\\nguyenkhoa_lab03\\repositories\\efcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86DA11C3-375E-4D63-8C8A-2930F508425F}|NguyenKhoa_Lab03\\NguyenKhoa_Lab03.csproj|solutionrelative:nguyenkhoa_lab03\\repositories\\efcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86DA11C3-375E-4D63-8C8A-2930F508425F}|NguyenKhoa_Lab03\\NguyenKhoa_Lab03.csproj|d:\\thuchanhlaptrinhwebb\\nguyenkhoa_lab03\\nguyenkhoa_lab03\\repositories\\efproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86DA11C3-375E-4D63-8C8A-2930F508425F}|NguyenKhoa_Lab03\\NguyenKhoa_Lab03.csproj|solutionrelative:nguyenkhoa_lab03\\repositories\\efproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86DA11C3-375E-4D63-8C8A-2930F508425F}|NguyenKhoa_Lab03\\NguyenKhoa_Lab03.csproj|d:\\thuchanhlaptrinhwebb\\nguyenkhoa_lab03\\nguyenkhoa_lab03\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86DA11C3-375E-4D63-8C8A-2930F508425F}|NguyenKhoa_Lab03\\NguyenKhoa_Lab03.csproj|solutionrelative:nguyenkhoa_lab03\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86DA11C3-375E-4D63-8C8A-2930F508425F}|NguyenKhoa_Lab03\\NguyenKhoa_Lab03.csproj|d:\\thuchanhlaptrinhwebb\\nguyenkhoa_lab03\\nguyenkhoa_lab03\\migrations\\20250602132948_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86DA11C3-375E-4D63-8C8A-2930F508425F}|NguyenKhoa_Lab03\\NguyenKhoa_Lab03.csproj|solutionrelative:nguyenkhoa_lab03\\migrations\\20250602132948_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86DA11C3-375E-4D63-8C8A-2930F508425F}|NguyenKhoa_Lab03\\NguyenKhoa_Lab03.csproj|d:\\thuchanhlaptrinhwebb\\nguyenkhoa_lab03\\nguyenkhoa_lab03\\migrations\\20250603022904_addidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86DA11C3-375E-4D63-8C8A-2930F508425F}|NguyenKhoa_Lab03\\NguyenKhoa_Lab03.csproj|solutionrelative:nguyenkhoa_lab03\\migrations\\20250603022904_addidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86DA11C3-375E-4D63-8C8A-2930F508425F}|NguyenKhoa_Lab03\\NguyenKhoa_Lab03.csproj|d:\\thuchanhlaptrinhwebb\\nguyenkhoa_lab03\\nguyenkhoa_lab03\\views\\categories\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86DA11C3-375E-4D63-8C8A-2930F508425F}|NguyenKhoa_Lab03\\NguyenKhoa_Lab03.csproj|solutionrelative:nguyenkhoa_lab03\\views\\categories\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86DA11C3-375E-4D63-8C8A-2930F508425F}|NguyenKhoa_Lab03\\NguyenKhoa_Lab03.csproj|d:\\thuchanhlaptrinhwebb\\nguyenkhoa_lab03\\nguyenkhoa_lab03\\views\\product\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86DA11C3-375E-4D63-8C8A-2930F508425F}|NguyenKhoa_Lab03\\NguyenKhoa_Lab03.csproj|solutionrelative:nguyenkhoa_lab03\\views\\product\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86DA11C3-375E-4D63-8C8A-2930F508425F}|NguyenKhoa_Lab03\\NguyenKhoa_Lab03.csproj|d:\\thuchanhlaptrinhwebb\\nguyenkhoa_lab03\\nguyenkhoa_lab03\\migrations\\20250603023845_extendidentityuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86DA11C3-375E-4D63-8C8A-2930F508425F}|NguyenKhoa_Lab03\\NguyenKhoa_Lab03.csproj|solutionrelative:nguyenkhoa_lab03\\migrations\\20250603023845_extendidentityuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86DA11C3-375E-4D63-8C8A-2930F508425F}|NguyenKhoa_Lab03\\NguyenKhoa_Lab03.csproj|d:\\thuchanhlaptrinhwebb\\nguyenkhoa_lab03\\nguyenkhoa_lab03\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86DA11C3-375E-4D63-8C8A-2930F508425F}|NguyenKhoa_Lab03\\NguyenKhoa_Lab03.csproj|solutionrelative:nguyenkhoa_lab03\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86DA11C3-375E-4D63-8C8A-2930F508425F}|NguyenKhoa_Lab03\\NguyenKhoa_Lab03.csproj|d:\\thuchanhlaptrinhwebb\\nguyenkhoa_lab03\\nguyenkhoa_lab03\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86DA11C3-375E-4D63-8C8A-2930F508425F}|NguyenKhoa_Lab03\\NguyenKhoa_Lab03.csproj|solutionrelative:nguyenkhoa_lab03\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86DA11C3-375E-4D63-8C8A-2930F508425F}|NguyenKhoa_Lab03\\NguyenKhoa_Lab03.csproj|d:\\thuchanhlaptrinhwebb\\nguyenkhoa_lab03\\nguyenkhoa_lab03\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86DA11C3-375E-4D63-8C8A-2930F508425F}|NguyenKhoa_Lab03\\NguyenKhoa_Lab03.csproj|solutionrelative:nguyenkhoa_lab03\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86DA11C3-375E-4D63-8C8A-2930F508425F}|NguyenKhoa_Lab03\\NguyenKhoa_Lab03.csproj|d:\\thuchanhlaptrinhwebb\\nguyenkhoa_lab03\\nguyenkhoa_lab03\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86DA11C3-375E-4D63-8C8A-2930F508425F}|NguyenKhoa_Lab03\\NguyenKhoa_Lab03.csproj|solutionrelative:nguyenkhoa_lab03\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86DA11C3-375E-4D63-8C8A-2930F508425F}|NguyenKhoa_Lab03\\NguyenKhoa_Lab03.csproj|d:\\thuchanhlaptrinhwebb\\nguyenkhoa_lab03\\nguyenkhoa_lab03\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86DA11C3-375E-4D63-8C8A-2930F508425F}|NguyenKhoa_Lab03\\NguyenKhoa_Lab03.csproj|solutionrelative:nguyenkhoa_lab03\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "NguyenKhoa_Lab03\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "NguyenKhoa_Lab03\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAFQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T01:09:39.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "NguyenKhoa_Lab03\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "NguyenKhoa_Lab03\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAL8CAAAAAAAAAAAUwNACAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T23:32:24.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NguyenKhoa_Lab03.csproj",
+              "DocumentMoniker": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03.csproj",
+              "RelativeDocumentMoniker": "NguyenKhoa_Lab03\\NguyenKhoa_Lab03.csproj",
+              "ToolTip": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03.csproj",
+              "RelativeToolTip": "NguyenKhoa_Lab03\\NguyenKhoa_Lab03.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-09T23:06:06.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\Areas\\Admin\\Views\\ProductManager\\Delete.cshtml",
+              "RelativeDocumentMoniker": "NguyenKhoa_Lab03\\Areas\\Admin\\Views\\ProductManager\\Delete.cshtml",
+              "ToolTip": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\Areas\\Admin\\Views\\ProductManager\\Delete.cshtml",
+              "RelativeToolTip": "NguyenKhoa_Lab03\\Areas\\Admin\\Views\\ProductManager\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T23:27:30.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\Areas\\Admin\\Views\\ProductManager\\Details.cshtml",
+              "RelativeDocumentMoniker": "NguyenKhoa_Lab03\\Areas\\Admin\\Views\\ProductManager\\Details.cshtml",
+              "ToolTip": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\Areas\\Admin\\Views\\ProductManager\\Details.cshtml",
+              "RelativeToolTip": "NguyenKhoa_Lab03\\Areas\\Admin\\Views\\ProductManager\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T23:23:12.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\Areas\\Admin\\Views\\ProductManager\\Edit.cshtml",
+              "RelativeDocumentMoniker": "NguyenKhoa_Lab03\\Areas\\Admin\\Views\\ProductManager\\Edit.cshtml",
+              "ToolTip": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\Areas\\Admin\\Views\\ProductManager\\Edit.cshtml",
+              "RelativeToolTip": "NguyenKhoa_Lab03\\Areas\\Admin\\Views\\ProductManager\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T23:17:54.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductManagerController.cs",
+              "DocumentMoniker": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\Areas\\Admin\\Controllers\\ProductManagerController.cs",
+              "RelativeDocumentMoniker": "NguyenKhoa_Lab03\\Areas\\Admin\\Controllers\\ProductManagerController.cs",
+              "ToolTip": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\Areas\\Admin\\Controllers\\ProductManagerController.cs",
+              "RelativeToolTip": "NguyenKhoa_Lab03\\Areas\\Admin\\Controllers\\ProductManagerController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwDEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T16:51:44.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "NguyenKhoa_Lab03\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "NguyenKhoa_Lab03\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAApwI4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T16:52:40.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\Areas\\Admin\\Views\\ProductManager\\Create.cshtml",
+              "RelativeDocumentMoniker": "NguyenKhoa_Lab03\\Areas\\Admin\\Views\\ProductManager\\Create.cshtml",
+              "ToolTip": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\Areas\\Admin\\Views\\ProductManager\\Create.cshtml",
+              "RelativeToolTip": "NguyenKhoa_Lab03\\Areas\\Admin\\Views\\ProductManager\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T23:15:20.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "NguyenKhoa_Lab03\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "NguyenKhoa_Lab03\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T23:08:42.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\Areas\\Admin\\Views\\ProductManager\\Index.cshtml",
+              "RelativeDocumentMoniker": "NguyenKhoa_Lab03\\Areas\\Admin\\Views\\ProductManager\\Index.cshtml",
+              "ToolTip": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\Areas\\Admin\\Views\\ProductManager\\Index.cshtml",
+              "RelativeToolTip": "NguyenKhoa_Lab03\\Areas\\Admin\\Views\\ProductManager\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T23:08:05.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EFCategoryRepository.cs",
+              "DocumentMoniker": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\Repositories\\EFCategoryRepository.cs",
+              "RelativeDocumentMoniker": "NguyenKhoa_Lab03\\Repositories\\EFCategoryRepository.cs",
+              "ToolTip": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\Repositories\\EFCategoryRepository.cs",
+              "RelativeToolTip": "NguyenKhoa_Lab03\\Repositories\\EFCategoryRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T23:00:05.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EFProductRepository.cs",
+              "DocumentMoniker": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\Repositories\\EFProductRepository.cs",
+              "RelativeDocumentMoniker": "NguyenKhoa_Lab03\\Repositories\\EFProductRepository.cs",
+              "ToolTip": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\Repositories\\EFProductRepository.cs",
+              "RelativeToolTip": "NguyenKhoa_Lab03\\Repositories\\EFProductRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAiwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T22:59:58.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "NguyenKhoa_Lab03\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "NguyenKhoa_Lab03\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAhwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T23:00:50.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20250602132948_Initial.cs",
+              "DocumentMoniker": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\Migrations\\20250602132948_Initial.cs",
+              "RelativeDocumentMoniker": "NguyenKhoa_Lab03\\Migrations\\20250602132948_Initial.cs",
+              "ToolTip": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\Migrations\\20250602132948_Initial.cs",
+              "RelativeToolTip": "NguyenKhoa_Lab03\\Migrations\\20250602132948_Initial.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T23:01:12.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20250603022904_AddIdentity.cs",
+              "DocumentMoniker": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\Migrations\\20250603022904_AddIdentity.cs",
+              "RelativeDocumentMoniker": "NguyenKhoa_Lab03\\Migrations\\20250603022904_AddIdentity.cs",
+              "ToolTip": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\Migrations\\20250603022904_AddIdentity.cs",
+              "RelativeToolTip": "NguyenKhoa_Lab03\\Migrations\\20250603022904_AddIdentity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T23:01:06.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\Views\\Categories\\Add.cshtml",
+              "RelativeDocumentMoniker": "NguyenKhoa_Lab03\\Views\\Categories\\Add.cshtml",
+              "ToolTip": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\Views\\Categories\\Add.cshtml",
+              "RelativeToolTip": "NguyenKhoa_Lab03\\Views\\Categories\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T23:02:06.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\Views\\Product\\Add.cshtml",
+              "RelativeDocumentMoniker": "NguyenKhoa_Lab03\\Views\\Product\\Add.cshtml",
+              "ToolTip": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\Views\\Product\\Add.cshtml",
+              "RelativeToolTip": "NguyenKhoa_Lab03\\Views\\Product\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T23:01:51.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20250603023845_ExtendIdentityUser.cs",
+              "DocumentMoniker": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\Migrations\\20250603023845_ExtendIdentityUser.cs",
+              "RelativeDocumentMoniker": "NguyenKhoa_Lab03\\Migrations\\20250603023845_ExtendIdentityUser.cs",
+              "ToolTip": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\Migrations\\20250603023845_ExtendIdentityUser.cs",
+              "RelativeToolTip": "NguyenKhoa_Lab03\\Migrations\\20250603023845_ExtendIdentityUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T23:01:03.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "NguyenKhoa_Lab03\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "NguyenKhoa_Lab03\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T23:00:40.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\Repositories\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "NguyenKhoa_Lab03\\Repositories\\ICategoryRepository.cs",
+              "ToolTip": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\Repositories\\ICategoryRepository.cs",
+              "RelativeToolTip": "NguyenKhoa_Lab03\\Repositories\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T22:59:52.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "NguyenKhoa_Lab03\\Repositories\\IProductRepository.cs",
+              "ToolTip": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "NguyenKhoa_Lab03\\Repositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T22:59:43.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "NguyenKhoa_Lab03\\Controllers\\CategoriesController.cs",
+              "ToolTip": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "NguyenKhoa_Lab03\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T22:59:26.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "NguyenKhoa_Lab03\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "NguyenKhoa_Lab03\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T22:59:09.646Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

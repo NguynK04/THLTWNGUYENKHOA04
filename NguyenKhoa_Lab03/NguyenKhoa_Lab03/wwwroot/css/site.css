@@ -1,0 +1,65 @@
+﻿/* Base font size */
+html {
+    font-size: 14px;
+    position: relative;
+    min-height: 100%;
+    background-color: #fafafa; /* nền sáng nhẹ nhàng */
+    color: #333333; /* chữ màu tối dễ đọc */
+    font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+@media (min-width: 700px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+/* Body margin để footer không bị che khuất */
+body {
+    margin-bottom: 100px;
+    background-color: inherit;
+    line-height: 1.5;
+}
+
+/* Button và form control focus */
+.btn:focus,
+.btn:active:focus,
+.btn-link.nav-link:focus,
+.form-control:focus,
+.form-check-input:focus {
+    outline: none;
+    box-shadow: 0 0 0 0.15rem rgba(255, 255, 255, 0.6), /* white glow mềm mại bên ngoài */
+    0 0 0 0.3rem rgba(37, 140, 251, 0.4); /* ánh sáng xanh dịu */
+    transition: box-shadow 0.3s ease-in-out;
+}
+
+/* Form floating placeholder */
+.form-floating > .form-control-plaintext::placeholder,
+.form-floating > .form-control::placeholder {
+    color: #6c757d; /* màu xám trung tính, nhẹ nhàng */
+    font-style: italic;
+    text-align: right;
+    transition: color 0.3s ease, text-align 0.3s ease;
+}
+
+.form-floating > .form-control-plaintext:focus::placeholder,
+.form-floating > .form-control:focus::placeholder {
+    color: #adb5bd; /* màu xám nhạt hơn khi focus */
+    text-align: left;
+}
+
+/* Ảnh trong phần quản lý sản phẩm (thêm, sửa, xóa) */
+.product-image,
+.image-container img {
+    max-width: 80px; /* giảm kích thước ảnh */
+    max-height: 80px; /* giới hạn chiều cao */
+    width: auto;
+    height: auto;
+    object-fit: contain; /* giữ tỉ lệ ảnh */
+    border-radius: 6px; /* bo góc nhẹ nhàng */
+    box-shadow: 0 1px 4px rgba(0,0,0,0.1); /* bóng nhẹ */
+    display: block;
+    margin: 0 auto; /* căn giữa nếu muốn */
+}

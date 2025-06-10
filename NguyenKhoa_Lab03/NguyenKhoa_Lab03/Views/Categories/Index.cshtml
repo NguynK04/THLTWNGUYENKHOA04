@@ -1,0 +1,44 @@
+﻿@model IEnumerable<Category>
+
+@{
+    ViewData["Title"] = "Danh sách danh mục";
+}
+
+<div class="container mt-4">
+    <h2 class="mb-3">Danh sách danh mục</h2>
+
+    <a asp-action="Add" class="btn btn-success mb-3 rounded-pill">
+        <i class="bi bi-plus-circle-fill"></i> Thêm mới
+    </a>
+
+    <table class="table table-bordered table-striped align-middle">
+        <thead class="table-dark">
+            <tr>
+                <th scope="col">Tên danh mục</th>
+                <th scope="col" class="text-center" style="width: 250px;">Hành động</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var category in Model)
+            {
+                <tr>
+                    <td>@category.Name</td>
+                    <td class="text-center">
+                        <a class="btn btn-sm btn-info rounded-pill me-1" asp-action="Display" asp-route-id="@category.Id" title="Xem chi tiết">
+                            <i class="bi bi-eye-fill"></i> Xem
+                        </a>
+                        <a class="btn btn-sm btn-warning rounded-pill me-1" asp-action="Update" asp-route-id="@category.Id" title="Chỉnh sửa">
+                            <i class="bi bi-pencil-square"></i> Sửa
+                        </a>
+                        <a class="btn btn-sm btn-danger rounded-pill"
+                           asp-action="Delete" asp-route-id="@category.Id"
+                           onclick="return confirm('Bạn có chắc chắn muốn xóa danh mục này không?');"
+                           title="Xóa">
+                            <i class="bi bi-trash-fill"></i> Xóa
+                        </a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

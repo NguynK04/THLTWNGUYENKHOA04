@@ -1,0 +1,445 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\NguyenKhoa_Lab03.bundle.scp.css",
+      "PackagePath": "staticwebassets\\NguyenKhoa_Lab03.z5d899aaao.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\Admin\\css\\sb-admin-2.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\sb-admin-2.css"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\Admin\\css\\sb-admin-2.min.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\sb-admin-2.min.css"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\Admin\\img\\undraw_posting_photo.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\undraw_posting_photo.svg"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\Admin\\img\\undraw_profile.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\undraw_profile.svg"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\Admin\\img\\undraw_profile_1.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\undraw_profile_1.svg"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\Admin\\img\\undraw_profile_2.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\undraw_profile_2.svg"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\Admin\\img\\undraw_profile_3.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\undraw_profile_3.svg"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\Admin\\img\\undraw_rocket.svg",
+      "PackagePath": "staticwebassets\\Admin\\img\\undraw_rocket.svg"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\Admin\\js\\demo\\chart-area-demo.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\demo\\chart-area-demo.js"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\Admin\\js\\demo\\chart-bar-demo.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\demo\\chart-bar-demo.js"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\Admin\\js\\demo\\chart-pie-demo.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\demo\\chart-pie-demo.js"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\Admin\\js\\demo\\datatables-demo.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\demo\\datatables-demo.js"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\Admin\\js\\sb-admin-2.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\sb-admin-2.js"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\Admin\\js\\sb-admin-2.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\sb-admin-2.min.js"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\Admin\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\Admin\\scss\\_cards.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_cards.scss"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\Admin\\scss\\_charts.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_charts.scss"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\Admin\\scss\\_dropdowns.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_dropdowns.scss"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\Admin\\scss\\_error.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_error.scss"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\Admin\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_footer.scss"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\Admin\\scss\\_global.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_global.scss"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\Admin\\scss\\_login.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_login.scss"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\Admin\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\Admin\\scss\\_navs.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_navs.scss"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\Admin\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\Admin\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\_variables.scss"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\Admin\\scss\\navs\\_global.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\navs\\_global.scss"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\Admin\\scss\\navs\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\navs\\_sidebar.scss"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\Admin\\scss\\navs\\_topbar.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\navs\\_topbar.scss"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\Admin\\scss\\sb-admin-2.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\sb-admin-2.scss"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\Admin\\scss\\utilities\\_animation.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\utilities\\_animation.scss"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\Admin\\scss\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\utilities\\_background.scss"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\Admin\\scss\\utilities\\_border.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\utilities\\_border.scss"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\Admin\\scss\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\utilities\\_display.scss"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\Admin\\scss\\utilities\\_progress.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\utilities\\_progress.scss"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\Admin\\scss\\utilities\\_rotate.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\utilities\\_rotate.scss"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\Admin\\scss\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\utilities\\_text.scss"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\images\\6be855b2-34a4-4064-830d-85f499df605a_book4.jpg",
+      "PackagePath": "staticwebassets\\images\\6be855b2-34a4-4064-830d-85f499df605a_book4.jpg"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\images\\book2.jpg",
+      "PackagePath": "staticwebassets\\images\\book2.jpg"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\images\\book5.jpg",
+      "PackagePath": "staticwebassets\\images\\book5.jpg"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\images\\book6.jpg",
+      "PackagePath": "staticwebassets\\images\\book6.jpg"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Id": "D:\\THUCHANHLAPTRINHWEBB\\NguyenKhoa_Lab03\\NguyenKhoa_Lab03\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.NguyenKhoa_Lab03.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.NguyenKhoa_Lab03.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.NguyenKhoa_Lab03.props",
+      "PackagePath": "build\\NguyenKhoa_Lab03.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.NguyenKhoa_Lab03.props",
+      "PackagePath": "buildMultiTargeting\\NguyenKhoa_Lab03.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.NguyenKhoa_Lab03.props",
+      "PackagePath": "buildTransitive\\NguyenKhoa_Lab03.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

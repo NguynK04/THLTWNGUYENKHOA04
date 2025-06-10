@@ -1,0 +1,45 @@
+﻿@model NguyenKhoa_Lab03.Models.Product
+@using Microsoft.AspNetCore.Mvc.Rendering
+@{
+    ViewData["Title"] = "THÊM SẢN PHẨM";
+}
+
+<h2>Create Product</h2>
+
+@Html.AntiForgeryToken()
+
+<form asp-action="Create" method="post" enctype="multipart/form-data">
+    <div class="mb-3">
+        <label asp-for="Name" class="form-label">Tên sản phẩm</label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Price" class="form-label">Giá</label>
+        <input asp-for="Price" class="form-control" />
+        <span asp-validation-for="Price" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Description" class="form-label">Mô tả</label>
+        <textarea asp-for="Description" class="form-control"></textarea>
+        <span asp-validation-for="Description" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="CategoryId" class="form-label">Danh mục</label>
+        <select asp-for="CategoryId" asp-items="ViewBag.Categories" class="form-select">
+            <option value="">-- Chọn danh mục --</option>
+        </select>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="ImageUrl" class="form-label">Hình ảnh sản phẩm</label>
+        <input type="file" asp-for="ImageUrl" class="form-control" />
+    </div>
+
+    <div>
+        <button type="submit" class="btn btn-primary rounded-pill">Thêm mới</button>
+        <a class="btn btn-outline-info rounded-pill ms-2" asp-action="Index">
+            <i class="bi bi-arrow-left-short"></i> Trở về danh sách
+        </a>
+    </div>
+</form>

@@ -1,0 +1,21 @@
+﻿@model NguyenKhoa_Lab03.Models.Product
+
+@{
+    ViewData["Title"] = "XÓA SẢN PHẨM";
+}
+
+<div class="container mt-4">
+    <h2>Delete Product</h2>
+    <div class="alert alert-danger" role="alert">
+        Bạn có chắc chắn muốn xóa sản phẩm <strong>@Model.Name</strong> không?
+    </div>
+    <form asp-action="DeleteConfirmed" method="post" class="d-flex gap-2">
+        <input type="hidden" asp-for="Id" />
+        <button type="submit" class="btn btn-danger rounded-pill">
+            <i class="bi bi-trash-fill"></i> Xóa
+        </button>
+        <a class="btn btn-outline-info rounded-pill" asp-action="Index">
+            <i class="bi bi-arrow-left-short"></i> Trở về danh sách
+        </a>
+    </form>
+</div>
