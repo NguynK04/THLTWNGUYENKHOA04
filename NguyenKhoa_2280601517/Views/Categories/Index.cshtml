@@ -1,0 +1,82 @@
+﻿@using NguyenKhoa_2280601517.Models
+@model IEnumerable<Category>
+
+@{
+    ViewData["Title"] = "QUẢN LÝ DANH MỤC";
+}
+
+<h2 class="mb-4 text-primary">@ViewData["Title"]</h2>
+
+<div class="card shadow-sm">
+    <div class="card-header bg-light py-3 d-flex flex-wrap justify-content-between align-items-center">
+        <h5 class="mb-0 text-muted">
+            <i class="bi bi-tags-fill me-2"></i>Danh sách các danh mục hiện có
+        </h5>
+        <a asp-action="Add" class="btn btn-success">
+            <i class="bi bi-plus-circle-fill"></i> Thêm mới danh mục
+        </a>
+    </div>
+    <div class="card-body">
+        @if (Model != null && Model.Any())
+        {
+            <div class="table-responsive">
+                <table class="table table-bordered table-striped table-hover align-middle">
+                    <thead class="table-light">
+                        <tr>
+                            <th>Tên danh mục</th>
+                            <th class="text-center" style="width: 230px;">Hành động</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var category in Model)
+                        {
+                            <tr>
+                                <td><strong>@category.Name</strong></td>
+                                <td class="text-center">
+                                    @* Nút Xem chi tiết có thể không cần thiết cho Danh mục đơn giản, tùy bạn quyết định *@
+                                    @*
+                                    <a class="btn btn-sm btn-outline-info" asp-action="Display" asp-route-id="@category.Id" title="Xem chi tiết @category.Name">
+                                        <i class="bi bi-eye-fill"></i> <span class="d-none d-md-inline">Xem</span>
+                                    </a>
+                                    *@
+                                    <a class="btn btn-sm btn-outline-warning text-dark ms-1" asp-action="Update" asp-route-id="@category.Id" title="Chỉnh sửa @category.Name">
+                                        <i class="bi bi-pencil-square"></i> <span class="d-none d-md-inline">Sửa</span>
+                                    </a>
+                                    <a class="btn btn-sm btn-outline-danger ms-1" asp-action="Delete" asp-route-id="@category.Id" title="Xóa @category.Name">
+                                        <i class="bi bi-trash-fill"></i> <span class="d-none d-md-inline">Xóa</span>
+                                    </a>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        }
+        else
+        {
+            <div class="alert alert-info text-center" role="alert">
+                <i class="bi bi-info-circle-fill me-2"></i> Hiện tại chưa có danh mục nào trong hệ thống.
+                <br />
+                <a asp-action="Add" class="btn btn-sm btn-light mt-2">
+                    <i class="bi bi-plus-circle"></i> Bắt đầu bằng cách thêm mới!
+                </a>
+            </div>
+        }
+    </div>
+</div>
+
+@* Cân nhắc thêm phân trang nếu danh sách danh mục có thể rất dài *@
+@*
+@if (Model != null && Model.Count() > 10) // Ví dụ điều kiện hiển thị phân trang
+{
+    <nav aria-label="Page navigation example" class="mt-4">
+        <ul class="pagination justify-content-center">
+            <li class="page-item disabled"><a class="page-link" href="#">Previous</a></li>
+            <li class="page-item active"><a class="page-link" href="#">1</a></li>
+            <li class="page-item"><a class="page-link" href="#">2</a></li>
+            <li class="page-item"><a class="page-link" href="#">3</a></li>
+            <li class="page-item"><a class="page-link" href="#">Next</a></li>
+        </ul>
+    </nav>
+}
+*@

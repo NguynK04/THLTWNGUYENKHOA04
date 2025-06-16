@@ -1,0 +1,70 @@
+﻿@using NguyenKhoa_2280601517.Models
+@model Product
+
+@{
+    ViewData["Title"] = "XÁC NHẬN XÓA SẢN PHẨM";
+    Layout = "/Views/Shared/_AdminLayout.cshtml";
+}
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+<h2 class="mb-4 text-primary">@ViewData["Title"]</h2>
+
+<div class="row justify-content-center">
+    <div class="col-md-8 col-lg-7">
+
+        <div class="card shadow-sm mb-4">
+            <div class="card-header bg-light py-3">
+                <h5 class="mb-0 text-muted">
+                    <i class="bi bi-exclamation-triangle-fill text-danger me-2"></i>Hành động nguy hiểm
+                </h5>
+            </div>
+            <div class="card-body">
+                <div class="text-center mb-4">
+                    <p>Bạn sắp xóa sản phẩm sau:</p>
+                    @if (!string.IsNullOrEmpty(Model.ImageUrl) && Model.ImageUrl.ToLower() != "noimage.png")
+                    {
+                        <img src="@Model.ImageUrl" alt="@Model.Name" class="img-thumbnail my-2" style="max-width: 150px; max-height: 150px; object-fit: contain;">
+                    }
+                    else
+                    {
+                        <div class="d-flex align-items-center justify-content-center bg-light text-muted rounded my-2" style="width: 150px; height: 150px; margin-left: auto; margin-right: auto; border: 1px solid #dee2e6;">
+                            <i class="bi bi-image" style="font-size: 3rem;"></i>
+                        </div>
+                    }
+                    <h4 class="text-danger fw-bold">@Model.Name</h4>
+                    <p class="small text-muted mb-0">
+                        <strong>Danh mục:</strong> @(Model.Category != null ? Model.Category.Name : "Chưa phân loại")
+                    </p>
+                    <p class="small text-muted">
+                        <strong>Giá:</strong> @Model.Price.ToString("N0") VNĐ
+                    </p>
+                </div>
+
+                <div class="alert alert-warning text-center" role="alert">
+                    Hành động này <strong>không thể hoàn tác</strong>. Bạn có chắc chắn muốn xóa vĩnh viễn sản phẩm này không?
+                </div>
+
+                <form asp-action="DeleteConfirmed" method="post">
+                    <input type="hidden" asp-for="Id" />
+                    <div class="d-flex justify-content-center gap-3 mt-4">
+                        <a class="btn btn-outline-secondary px-4" asp-action="Index">
+                            <i class="bi bi-x-circle"></i> Hủy bỏ
+                        </a>
+                        <button type="submit" class="btn btn-danger px-4">
+                            <i class="bi bi-trash-fill"></i> Xóa vĩnh viễn
+                        </button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Styles {
+    <style>
+        .img-thumbnail {
+            border: 1px solid #dee2e6; /* Thêm viền nhẹ cho ảnh */
+            padding: 0.25rem;
+        }
+    </style>
+}

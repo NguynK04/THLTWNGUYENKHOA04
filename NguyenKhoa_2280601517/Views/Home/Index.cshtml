@@ -1,0 +1,67 @@
+﻿@{
+    ViewData["Title"] = "Trang chủ";
+    int numOfQuantity = 1;
+}
+
+<section class="py-2">
+    <div class="container px-4 px-lg-5 mt-5">
+        <div class="row gx-4 gx-lg-5 row-cols-2 row-cols-md-3 row-cols-xl-4 justify-content-center">
+
+            @foreach (var item in Model)
+            {
+                <div class="col mb-5">
+                    <div class="card gap-3" style="width: 18rem">
+                        <img src="@item.ImageUrl" class="card-img-top" alt="..."
+                             style="height: 300px">
+                        <div class="card-body">
+                            <h5 class="card-title">@item.Name</h5>
+                            <div class="d-flex">
+                                <span>Price: </span>
+                                <p class="mx-3">@item.Price.ToString("#,##0") Vnđ</p>
+                            </div>
+                            <a asp-controller="ShoppingCart" asp-action="AddToCart" asp-route-productId="@item.Id"
+                               asp-route-quantity="@numOfQuantity">
+                                <button class="btn btn-outline-dark"><i class="bi-cart-fill me-1"></i> Add to Cart </button>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</section>
+
+<section class="py-5">
+    <div class="container">
+        <div class="row text-center">
+            <div class="col-md-3 col-sm-6">
+                <div class="why-us-item">
+                    <i class="fa-solid fa-truck-fast fa-3x text-primary mb-3"></i>
+                    <h4>Giao Hàng Nhanh</h4>
+                    <p class="text-muted">Miễn phí vận chuyển cho đơn hàng trên 500,000đ.</p>
+                </div>
+            </div>
+            <div class="col-md-3 col-sm-6">
+                <div class="why-us-item">
+                    <i class="fa-solid fa-shield-halved fa-3x text-primary mb-3"></i>
+                    <h4>Thanh Toán An Toàn</h4>
+                    <p class="text-muted">Bảo mật thông tin thanh toán tuyệt đối.</p>
+                </div>
+            </div>
+            <div class="col-md-3 col-sm-6">
+                 <div class="why-us-item">
+                    <i class="fa-solid fa-headset fa-3x text-primary mb-3"></i>
+                    <h4>Hỗ Trợ 24/7</h4>
+                    <p class="text-muted">Luôn sẵn sàng giải đáp mọi thắc mắc của bạn.</p>
+                </div>
+            </div>
+            <div class="col-md-3 col-sm-6">
+                 <div class="why-us-item">
+                    <i class="fa-solid fa-award fa-3x text-primary mb-3"></i>
+                    <h4>Chất Lượng Đảm Bảo</h4>
+                    <p class="text-muted">Cam kết sản phẩm chính hãng, chất lượng cao.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

@@ -1,0 +1,108 @@
+﻿@using NguyenKhoa_2280601517.Areas.Admin.Models
+@model IEnumerable<UserViewModel>
+
+@{
+    ViewData["Title"] = "Danh sách Người dùng";
+    Layout = "/Views/Shared/_AdminLayout.cshtml";
+}
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@* Thêm khối CSS tùy chỉnh *@
+<style>
+    .card-header .text-primary {
+        color: #4e73df !important;
+    }
+
+    .table-hover tbody tr:hover {
+        background-color: #f8f9fc;
+        cursor: pointer;
+    }
+
+    .btn-group .btn {
+        transition: all 0.2s ease-in-out;
+        /* Điều chỉnh margin để các nút không quá sát nhau */
+        margin-right: 6px;
+    }
+
+        .btn-group .btn:last-child {
+            margin-right: 0;
+        }
+
+        .btn-group .btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+        }
+
+    .badge {
+        font-size: 0.8rem;
+        padding: 0.4em 0.7em;
+    }
+
+    /* Thêm style để icon và text trên nút cách nhau một chút */
+    .btn i.fas {
+        margin-right: 4px;
+    }
+
+</style>
+
+<div class="container-fluid">
+    <div class="card shadow mb-4">
+        <div class="card-header py-3">
+            <h6 class="m-0 font-weight-bold text-primary">@ViewData["Title"]</h6>
+        </div>
+        <div class="card-body">
+            <div class="mb-3">
+                <a asp-action="Create" class="btn btn-primary">
+                    <i class="fas fa-plus"></i> Tạo tài khoản mới
+                </a>
+            </div>
+            <div class="table-responsive">
+                <table class="table table-bordered table-hover" width="100%" cellspacing="0">
+                    <thead class="thead-light">
+                        <tr>
+                            <th>Họ và Tên</th>
+                            <th>Email</th>
+                            <th>Vai trò</th>
+                            <th>Thao tác</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var user in Model)
+                        {
+                            <tr>
+                                <td>@user.FullName</td>
+                                <td>@user.Email</td>
+                                <td>
+                                    @if (user.Role == "Admin")
+                                    {
+                                        <span class="badge bg-danger">@user.Role</span>
+                                    }
+                                    else if (user.Role == "Employee")
+                                    {
+                                        <span class="badge bg-info text-dark">@user.Role</span>
+                                    }
+                                    else
+                                    {
+                                        <span class="badge bg-secondary">@user.Role</span>
+                                    }
+                                </td>
+                                <td>
+                                    <div class="btn-group" role="group">
+                                      
+                                        <a asp-action="Edit" asp-route-id="@user.Id" class="btn btn-warning btn-sm" title="Sửa">
+                                            <i class="fas fa-edit"></i> Sửa
+                                        </a>
+                                     
+                                        <a asp-action="Delete" asp-route-id="@user.Id" class="btn btn-danger btn-sm" title="Xóa">
+                                            <i class="fas fa-trash"></i> Xóa
+                                        </a>
+                                       
+                                    </div>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
