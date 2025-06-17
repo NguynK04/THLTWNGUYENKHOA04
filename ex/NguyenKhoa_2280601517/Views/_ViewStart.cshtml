@@ -1,0 +1,26 @@
+﻿@{
+    // Kiểm tra xem người dùng đã đăng nhập hay chưa
+    if (User.Identity.IsAuthenticated)
+    {
+        // Nếu là Admin
+        if (User.IsInRole("Admin"))
+        {
+            Layout = "_AdminLayout"; // Dùng giao diện Admin
+        }
+        // Nếu là Employee
+        else if (User.IsInRole("Employee"))
+        {
+            Layout = "_EmployeeLayout"; // Dùng giao diện Employee
+        }
+        // Nếu là vai trò khác (ví dụ: Customer đã đăng nhập)
+        else
+        {
+            Layout = "_Layout"; // Dùng giao diện Customer
+        }
+    }
+    // Nếu chưa đăng nhập
+    else
+    {
+        Layout = "_Layout"; // Vẫn dùng giao diện Customer công khai
+    }
+}

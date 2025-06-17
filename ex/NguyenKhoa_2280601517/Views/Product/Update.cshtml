@@ -1,0 +1,105 @@
+﻿@model Product
+@using Microsoft.AspNetCore.Mvc.Rendering
+@using NguyenKhoa_2280601517.Models
+@{
+    ViewData["Title"] = "CHỈNH SỬA SẢN PHẨM";
+}
+
+<h2 class="mb-4 text-primary">@ViewData["Title"]</h2>
+
+<div class="row justify-content-center">
+    <div class="col-md-9 col-lg-8">
+        
+        <div class="card shadow-sm mb-4">
+            <div class="card-header bg-light py-3">
+                <h5 class="mb-0 text-muted">Chỉnh sửa thông tin cho: @Model.Name</h5>
+            </div>
+            <div class="card-body">
+                <form asp-action="Update" method="post" enctype="multipart/form-data">
+                    @Html.AntiForgeryToken()
+                    <input type="hidden" asp-for="Id" />
+                    <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+
+                    <div class="mb-3">
+                        <label asp-for="Name" class="form-label">Tên sản phẩm</label>
+                        <input asp-for="Name" class="form-control" />
+                        <span asp-validation-for="Name" class="text-danger"></span>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="mb-3">
+                                <label asp-for="Price" class="form-label">Giá</label>
+                                <div class="input-group">
+                                    <input asp-for="Price" class="form-control" type="number" step="any" />
+                                    <span class="input-group-text">VNĐ</span>
+                                </div>
+                                <span asp-validation-for="Price" class="text-danger"></span>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="mb-3">
+                                <label asp-for="CategoryId" class="form-label">Danh mục</label>
+                                <select asp-for="CategoryId" asp-items="@ViewBag.Categories" class="form-select">
+                                    <option value="">-- Chọn danh mục --</option>
+                                </select>
+                                <span asp-validation-for="CategoryId" class="text-danger"></span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="mb-3">
+                        <label asp-for="Description" class="form-label">Mô tả</label>
+                        <textarea asp-for="Description" class="form-control" rows="4"></textarea>
+                        <span asp-validation-for="Description" class="text-danger"></span>
+                    </div>
+
+                    <div class="mb-3">
+                        <label asp-for="ImageUrl" class="form-label">Tải lên hình ảnh mới (tùy chọn)</label>
+                        <input type="file" asp-for="ImageUrl" class="form-control" />
+                        <div class="form-text">Chọn tệp mới nếu bạn muốn thay đổi hình ảnh hiện tại. Nếu không chọn, hình ảnh cũ sẽ được giữ lại.</div>
+                       
+                        <span asp-validation-for="ImageUrl" class="text-danger"></span>
+                    </div>
+
+                    @if (!string.IsNullOrEmpty(Model.ImageUrl) && Model.ImageUrl.ToLower() != "noimage.png")
+                    {
+                        <div class="mb-3">
+                            <label class="form-label">Hình ảnh hiện tại:</label>
+                            <div>
+                                <img src="@Model.ImageUrl" alt="@Model.Name" class="img-thumbnail" style="max-width: 200px; max-height: 200px; object-fit: cover;" />
+                            </div>
+                        </div>
+                    }
+                    else
+                    {
+                        <div class="mb-3">
+                            <label class="form-label">Hình ảnh hiện tại:</label>
+                            <p class="form-text">Sản phẩm này chưa có hình ảnh.</p>
+                        </div>
+                    }
+
+                    <hr class="my-4" />
+
+                    <div class="d-flex justify-content-end">
+                        <a class="btn btn-outline-secondary me-2" asp-action="Index">
+                            <i class="bi bi-arrow-left-circle"></i> Quay lại danh sách
+                        </a>
+                        <button type="submit" class="btn btn-primary">
+                            <i class="bi bi-save-fill"></i> Lưu thay đổi
+                        </button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+    <script>
+  
+    </script>
+}

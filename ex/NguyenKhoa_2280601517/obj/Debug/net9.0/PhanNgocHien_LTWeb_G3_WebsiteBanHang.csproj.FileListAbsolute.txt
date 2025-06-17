@@ -1,0 +1,880 @@
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\appsettings.json
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\PhanNgocHien_LTWeb_G3_WebsiteBanHang.staticwebassets.runtime.json
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\PhanNgocHien_LTWeb_G3_WebsiteBanHang.staticwebassets.endpoints.json
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\PhanNgocHien_LTWeb_G3_WebsiteBanHang.exe
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\PhanNgocHien_LTWeb_G3_WebsiteBanHang.deps.json
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\PhanNgocHien_LTWeb_G3_WebsiteBanHang.runtimeconfig.json
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\PhanNgocHien_LTWeb_G3_WebsiteBanHang.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\PhanNgocHien_LTWeb_G3_WebsiteBanHang.pdb
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Humanizer.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\PhanNgocHien_LTWeb_G3_WebsiteBanHang.csproj.AssemblyReference.cache
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\PhanNgocHien_LTWeb_G3_WebsiteBanHang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\PhanNgocHien_LTWeb_G3_WebsiteBanHang.AssemblyInfoInputs.cache
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\PhanNgocHien_LTWeb_G3_WebsiteBanHang.AssemblyInfo.cs
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\PhanNgocHien_LTWeb_G3_WebsiteBanHang.csproj.CoreCompileInputs.cache
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\PhanNgocHien_LTWeb_G3_WebsiteBanHang.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\PhanNgocHien_LTWeb_G3_WebsiteBanHang.RazorAssemblyInfo.cache
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\PhanNgocHien_LTWeb_G3_WebsiteBanHang.RazorAssemblyInfo.cs
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\scopedcss\bundle\PhanNgocHien_LTWeb_G3_WebsiteBanHang.styles.css
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\scopedcss\projectbundle\PhanNgocHien_LTWeb_G3_WebsiteBanHang.bundle.scp.css
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\7kjoi8ucz8-61n19gt1b8.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\jm93szvs0b-xtxxf3hu2r.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\sgvtl098rk-bqjiyaj88i.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\j1i7xkccd3-c2jlpeoesf.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\cqfcqj9xpm-erw9l3u2r3.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\9q2neqmqeb-aexeepp0ev.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\0y0p4rys94-d7shbmvgxk.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\5hgxp16jjx-ausgxo2sd3.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\odscug35qc-k8d9w2qqmf.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\rbf29zn4m4-cosvhxvwiu.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\u3u62wuk7m-ub07r2b239.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\b3oovy711i-fvhpjtyr6v.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\elutwgbdyw-b7pk76d08c.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\wjace2wyw3-fsbi9cje9m.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\8bm21164bb-rzd6atqjts.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\wye61jrbhb-ee0r1s7dh0.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\hdyxky6m9p-dxx9fxp4il.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\btkszfbvce-jd9uben2k1.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\btwmp1na3s-khv3u5hwcm.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\z1qadi9o14-r4e9w2rdcm.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\1toqz9s3ko-lcd1t2u6c8.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\rr9advl4xl-c2oey78nd0.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\hj5uzm571y-tdbxkamptv.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\32k82egye9-j5mq2jizvt.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\dkyccpre8v-06098lyss8.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\60vzele562-nvvlpmu67g.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\uhbk4coq9c-s35ty4nyc5.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\k6sriumhq4-pj5nd1wqec.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\7bl11iboct-46ein0sx1k.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\xgud08l6u4-v0zj4ognzu.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\h40hzzbw6h-37tfw0ft22.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\oyccvqv2ue-hrwsygsryq.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\pbuqme7qon-pk9g2wxc8p.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\bxxplcbzcl-ft3s53vfgj.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\jr9f25ui6m-6cfz1n2cew.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\t7vxvxl2b9-6pdc2jztkx.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\7r17vugbud-493y06b0oq.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\zvbmx2wxuv-iovd86k7lj.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\8dkfi1sw3p-vr1egmr9el.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\dj927pth0f-kbrnm935zg.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\dk0eqn28nw-jj8uyg4cgr.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\cyu4n7csro-y7v9cxd14o.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\lmxp1h18ww-notf2xhcfb.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\qe351n5cxg-h1s4sie4z3.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\jnn7tn2hg3-63fj8s7r0e.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\bh8zegzqte-0j3bgjxly4.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\hpz3q3kcoj-47otxtyo56.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\2q7vztznnt-4v8eqarkd7.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\lothmeetxv-356vix0kms.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\wopykm0efa-83jwlth58m.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\b8a0cgejka-mrlpezrjn3.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\bckz79kq7j-lzl9nlhx6b.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\8e003kx4e4-ag7o75518u.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\bop5f84b3x-x0q3zqp4vz.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\j6qkz0s2j4-0i3buxo5is.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\xmdoaab324-o1o13a6vjx.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\qkmqer7ypj-ttgo8qnofa.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\fkws69shp3-2z0ns9nrw6.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\0ljt2k03x3-muycvpuwrr.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\5kaf6lefsw-87fc7y1x7t.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\isjrqwc1q5-mlv21k5csn.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\yzih8ybg5l-vbkdnalppo.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\bt5c3sjsm4-vbkdnalppo.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\staticwebassets\msbuild.PhanNgocHien_LTWeb_G3_WebsiteBanHang.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\staticwebassets\msbuild.PhanNgocHien_LTWeb_G3_WebsiteBanHang.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\staticwebassets\msbuild.build.PhanNgocHien_LTWeb_G3_WebsiteBanHang.props
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.PhanNgocHien_LTWeb_G3_WebsiteBanHang.props
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.PhanNgocHien_LTWeb_G3_WebsiteBanHang.props
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\PhanNgoc.ACB397B1.Up2Date
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\PhanNgocHien_LTWeb_G3_WebsiteBanHang.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\refint\PhanNgocHien_LTWeb_G3_WebsiteBanHang.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\PhanNgocHien_LTWeb_G3_WebsiteBanHang.pdb
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\PhanNgocHien_LTWeb_G3_WebsiteBanHang.genruntimeconfig.cache
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\ref\PhanNgocHien_LTWeb_G3_WebsiteBanHang.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\System.Formats.Asn1.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\PhanNgocHien_LTWeb_G3_WebsiteBanHang.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\ofa40bqe71-b9sayid5wm.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\j9swiz3yzq-90yqlj465b.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\vltxs1u3vm-xtxxf3hu2r.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\14ipv7q33s-bqjiyaj88i.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\rh65p086id-c2jlpeoesf.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\eb27mqwgz2-erw9l3u2r3.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\9glsckmvxo-aexeepp0ev.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\hh8ihyobdx-d7shbmvgxk.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\bww8ud00yd-ausgxo2sd3.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\edcrak57d7-k8d9w2qqmf.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\sf8kf2lula-cosvhxvwiu.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\3tzsqhslk9-ub07r2b239.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\oxk5o6czdw-fvhpjtyr6v.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\k8b25g0zwc-b7pk76d08c.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\8axix7wldr-fsbi9cje9m.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\d5z9sfpxbi-rzd6atqjts.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\u8428c4e9i-ee0r1s7dh0.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\tg53r17ghy-dxx9fxp4il.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\nlrl0f3xs3-jd9uben2k1.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\1fc4q00scq-khv3u5hwcm.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\8xykfy6qmd-r4e9w2rdcm.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\vsrbd71spn-lcd1t2u6c8.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\cynp17w084-c2oey78nd0.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\7o8oyvng68-tdbxkamptv.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\h9vwtoirpy-j5mq2jizvt.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\o5k23vqhrk-06098lyss8.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\iznc766avz-nvvlpmu67g.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\ns4583i71s-s35ty4nyc5.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\47012z8l2l-pj5nd1wqec.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\4vzefxwp2m-46ein0sx1k.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\bh4v3mdph9-v0zj4ognzu.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\l186vlgaag-37tfw0ft22.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\rsc7qacj1u-hrwsygsryq.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\z408qb6q7a-pk9g2wxc8p.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\qfr28sqcy1-ft3s53vfgj.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\0k1i85ntyh-6cfz1n2cew.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\xa379ftczi-6pdc2jztkx.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\lr5hmrr0j7-493y06b0oq.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\ivy2s9gwh5-iovd86k7lj.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\higufxz8op-vr1egmr9el.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\s3tglgz8hr-kbrnm935zg.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\vw9sls9bhj-jj8uyg4cgr.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\ym8tkpcl2i-y7v9cxd14o.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\zzna4nrm5w-notf2xhcfb.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\igscs4x0yk-h1s4sie4z3.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\zap00c0tb5-63fj8s7r0e.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\pogzkicjpz-0j3bgjxly4.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\j3hwsq15kh-47otxtyo56.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\q3naettu8c-4v8eqarkd7.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\ldxy2n3w6q-356vix0kms.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\ypthv7q62w-83jwlth58m.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\t6e3b82hrf-mrlpezrjn3.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\uocis9wxbx-lzl9nlhx6b.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\2tikzqlmtu-ag7o75518u.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\9muusbdg0a-x0q3zqp4vz.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\tpsq5dibur-0i3buxo5is.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\t0qo7o574p-o1o13a6vjx.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\b9lhb08218-ttgo8qnofa.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\a3ygkwa5zy-2z0ns9nrw6.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\nezrqnk58p-muycvpuwrr.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\v0zgfp0y55-87fc7y1x7t.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\yfc7ypekbg-mlv21k5csn.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.Build.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\NuGet.Common.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\NuGet.Configuration.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\NuGet.Frameworks.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\NuGet.LibraryModel.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\NuGet.Packaging.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\NuGet.ProjectModel.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\NuGet.Protocol.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\NuGet.Versioning.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\af\Humanizer.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\ar\Humanizer.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\az\Humanizer.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\bg\Humanizer.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\cs\Humanizer.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\da\Humanizer.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\de\Humanizer.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\el\Humanizer.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\es\Humanizer.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\fa\Humanizer.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\fr\Humanizer.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\he\Humanizer.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\hr\Humanizer.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\hu\Humanizer.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\hy\Humanizer.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\id\Humanizer.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\is\Humanizer.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\it\Humanizer.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\ja\Humanizer.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\ku\Humanizer.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\lv\Humanizer.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\mt\Humanizer.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\nb\Humanizer.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\nl\Humanizer.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\pl\Humanizer.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\pt\Humanizer.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\ro\Humanizer.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\ru\Humanizer.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\sk\Humanizer.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\sl\Humanizer.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\sr\Humanizer.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\sv\Humanizer.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\tr\Humanizer.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\uk\Humanizer.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\vi\Humanizer.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.Data.Sqlite.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\SQLitePCLRaw.core.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\MailKit.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\MimeKit.dll
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\oi85afppsd-jl3yv20zbg.gz
+C:\Users\Phan Ngoc Hien\source\repos\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\gn6r5nrz0u-dpvrpdunxr.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\appsettings.Development.json
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\appsettings.json
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\PhanNgocHien_LTWeb_G3_WebsiteBanHang.staticwebassets.runtime.json
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\PhanNgocHien_LTWeb_G3_WebsiteBanHang.staticwebassets.endpoints.json
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\PhanNgocHien_LTWeb_G3_WebsiteBanHang.exe
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\PhanNgocHien_LTWeb_G3_WebsiteBanHang.deps.json
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\PhanNgocHien_LTWeb_G3_WebsiteBanHang.runtimeconfig.json
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\PhanNgocHien_LTWeb_G3_WebsiteBanHang.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\PhanNgocHien_LTWeb_G3_WebsiteBanHang.pdb
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Azure.Core.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Azure.Identity.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Humanizer.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\MailKit.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.Build.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.Data.Sqlite.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\MimeKit.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\NuGet.Common.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\NuGet.Configuration.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\NuGet.Frameworks.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\NuGet.LibraryModel.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\NuGet.Packaging.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\NuGet.ProjectModel.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\NuGet.Protocol.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\NuGet.Versioning.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\SQLitePCLRaw.batteries_v2.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\SQLitePCLRaw.core.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\System.ClientModel.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\System.CodeDom.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\System.Memory.Data.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\af\Humanizer.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\ar\Humanizer.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\az\Humanizer.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\bg\Humanizer.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\cs\Humanizer.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\da\Humanizer.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\de\Humanizer.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\el\Humanizer.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\es\Humanizer.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\fa\Humanizer.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\fr\Humanizer.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\he\Humanizer.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\hr\Humanizer.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\hu\Humanizer.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\hy\Humanizer.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\id\Humanizer.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\is\Humanizer.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\it\Humanizer.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\ja\Humanizer.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\ku\Humanizer.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\lv\Humanizer.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\mt\Humanizer.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\nb\Humanizer.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\nl\Humanizer.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\pl\Humanizer.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\pt\Humanizer.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\ro\Humanizer.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\ru\Humanizer.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\sk\Humanizer.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\sl\Humanizer.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\sr\Humanizer.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\sv\Humanizer.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\tr\Humanizer.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\uk\Humanizer.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\vi\Humanizer.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\PhanNgocHien_LTWeb_G3_WebsiteBanHang.csproj.AssemblyReference.cache
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\PhanNgocHien_LTWeb_G3_WebsiteBanHang.GeneratedMSBuildEditorConfig.editorconfig
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\PhanNgocHien_LTWeb_G3_WebsiteBanHang.AssemblyInfoInputs.cache
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\PhanNgocHien_LTWeb_G3_WebsiteBanHang.AssemblyInfo.cs
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\PhanNgocHien_LTWeb_G3_WebsiteBanHang.csproj.CoreCompileInputs.cache
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\PhanNgocHien_LTWeb_G3_WebsiteBanHang.MvcApplicationPartsAssemblyInfo.cs
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\PhanNgocHien_LTWeb_G3_WebsiteBanHang.MvcApplicationPartsAssemblyInfo.cache
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\PhanNgocHien_LTWeb_G3_WebsiteBanHang.RazorAssemblyInfo.cache
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\PhanNgocHien_LTWeb_G3_WebsiteBanHang.RazorAssemblyInfo.cs
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\PhanNgocHien_LTWeb_G3_WebsiteBanHang.sourcelink.json
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\scopedcss\bundle\PhanNgocHien_LTWeb_G3_WebsiteBanHang.styles.css
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\scopedcss\projectbundle\PhanNgocHien_LTWeb_G3_WebsiteBanHang.bundle.scp.css
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\ofa40bqe71-b9sayid5wm.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\j9swiz3yzq-90yqlj465b.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\vltxs1u3vm-xtxxf3hu2r.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\14ipv7q33s-bqjiyaj88i.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\rh65p086id-c2jlpeoesf.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\eb27mqwgz2-erw9l3u2r3.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\9glsckmvxo-aexeepp0ev.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\hh8ihyobdx-d7shbmvgxk.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\bww8ud00yd-ausgxo2sd3.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\edcrak57d7-k8d9w2qqmf.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\sf8kf2lula-cosvhxvwiu.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\3tzsqhslk9-ub07r2b239.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\oxk5o6czdw-fvhpjtyr6v.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\k8b25g0zwc-b7pk76d08c.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\8axix7wldr-fsbi9cje9m.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\d5z9sfpxbi-rzd6atqjts.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\u8428c4e9i-ee0r1s7dh0.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\tg53r17ghy-dxx9fxp4il.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\nlrl0f3xs3-jd9uben2k1.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\1fc4q00scq-khv3u5hwcm.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\8xykfy6qmd-r4e9w2rdcm.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\vsrbd71spn-lcd1t2u6c8.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\cynp17w084-c2oey78nd0.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\7o8oyvng68-tdbxkamptv.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\h9vwtoirpy-j5mq2jizvt.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\o5k23vqhrk-06098lyss8.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\iznc766avz-nvvlpmu67g.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\ns4583i71s-s35ty4nyc5.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\47012z8l2l-pj5nd1wqec.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\4vzefxwp2m-46ein0sx1k.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\bh4v3mdph9-v0zj4ognzu.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\l186vlgaag-37tfw0ft22.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\rsc7qacj1u-hrwsygsryq.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\z408qb6q7a-pk9g2wxc8p.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\qfr28sqcy1-ft3s53vfgj.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\0k1i85ntyh-6cfz1n2cew.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\xa379ftczi-6pdc2jztkx.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\lr5hmrr0j7-493y06b0oq.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\ivy2s9gwh5-iovd86k7lj.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\higufxz8op-vr1egmr9el.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\s3tglgz8hr-kbrnm935zg.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\vw9sls9bhj-jj8uyg4cgr.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\ym8tkpcl2i-y7v9cxd14o.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\zzna4nrm5w-notf2xhcfb.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\igscs4x0yk-h1s4sie4z3.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\zap00c0tb5-63fj8s7r0e.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\pogzkicjpz-0j3bgjxly4.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\j3hwsq15kh-47otxtyo56.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\q3naettu8c-4v8eqarkd7.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\ldxy2n3w6q-356vix0kms.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\ypthv7q62w-83jwlth58m.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\t6e3b82hrf-mrlpezrjn3.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\uocis9wxbx-lzl9nlhx6b.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\2tikzqlmtu-ag7o75518u.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\9muusbdg0a-x0q3zqp4vz.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\tpsq5dibur-0i3buxo5is.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\t0qo7o574p-o1o13a6vjx.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\b9lhb08218-ttgo8qnofa.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\a3ygkwa5zy-2z0ns9nrw6.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\nezrqnk58p-muycvpuwrr.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\v0zgfp0y55-87fc7y1x7t.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\yfc7ypekbg-mlv21k5csn.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\oi85afppsd-jl3yv20zbg.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\gn6r5nrz0u-dpvrpdunxr.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\7kjoi8ucz8-61n19gt1b8.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\jm93szvs0b-xtxxf3hu2r.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\sgvtl098rk-bqjiyaj88i.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\j1i7xkccd3-c2jlpeoesf.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\cqfcqj9xpm-erw9l3u2r3.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\9q2neqmqeb-aexeepp0ev.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\0y0p4rys94-d7shbmvgxk.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\5hgxp16jjx-ausgxo2sd3.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\odscug35qc-k8d9w2qqmf.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\rbf29zn4m4-cosvhxvwiu.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\u3u62wuk7m-ub07r2b239.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\b3oovy711i-fvhpjtyr6v.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\elutwgbdyw-b7pk76d08c.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\wjace2wyw3-fsbi9cje9m.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\8bm21164bb-rzd6atqjts.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\wye61jrbhb-ee0r1s7dh0.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\hdyxky6m9p-dxx9fxp4il.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\btkszfbvce-jd9uben2k1.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\btwmp1na3s-khv3u5hwcm.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\z1qadi9o14-r4e9w2rdcm.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\1toqz9s3ko-lcd1t2u6c8.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\rr9advl4xl-c2oey78nd0.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\hj5uzm571y-tdbxkamptv.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\32k82egye9-j5mq2jizvt.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\dkyccpre8v-06098lyss8.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\60vzele562-nvvlpmu67g.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\uhbk4coq9c-s35ty4nyc5.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\k6sriumhq4-pj5nd1wqec.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\7bl11iboct-46ein0sx1k.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\xgud08l6u4-v0zj4ognzu.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\h40hzzbw6h-37tfw0ft22.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\oyccvqv2ue-hrwsygsryq.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\pbuqme7qon-pk9g2wxc8p.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\bxxplcbzcl-ft3s53vfgj.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\jr9f25ui6m-6cfz1n2cew.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\t7vxvxl2b9-6pdc2jztkx.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\7r17vugbud-493y06b0oq.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\zvbmx2wxuv-iovd86k7lj.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\8dkfi1sw3p-vr1egmr9el.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\dj927pth0f-kbrnm935zg.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\dk0eqn28nw-jj8uyg4cgr.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\cyu4n7csro-y7v9cxd14o.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\lmxp1h18ww-notf2xhcfb.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\qe351n5cxg-h1s4sie4z3.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\jnn7tn2hg3-63fj8s7r0e.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\bh8zegzqte-0j3bgjxly4.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\hpz3q3kcoj-47otxtyo56.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\2q7vztznnt-4v8eqarkd7.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\lothmeetxv-356vix0kms.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\wopykm0efa-83jwlth58m.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\b8a0cgejka-mrlpezrjn3.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\bckz79kq7j-lzl9nlhx6b.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\8e003kx4e4-ag7o75518u.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\bop5f84b3x-x0q3zqp4vz.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\j6qkz0s2j4-0i3buxo5is.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\xmdoaab324-o1o13a6vjx.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\qkmqer7ypj-ttgo8qnofa.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\fkws69shp3-2z0ns9nrw6.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\0ljt2k03x3-muycvpuwrr.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\5kaf6lefsw-87fc7y1x7t.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\isjrqwc1q5-mlv21k5csn.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\yzih8ybg5l-vbkdnalppo.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\compressed\bt5c3sjsm4-vbkdnalppo.gz
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\staticwebassets.build.json
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\staticwebassets.development.json
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\PhanNgoc.ACB397B1.Up2Date
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\PhanNgocHien_LTWeb_G3_WebsiteBanHang.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\refint\PhanNgocHien_LTWeb_G3_WebsiteBanHang.dll
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\PhanNgocHien_LTWeb_G3_WebsiteBanHang.pdb
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\PhanNgocHien_LTWeb_G3_WebsiteBanHang.genruntimeconfig.cache
+D:\THUCHANHLAPTRINHWEBB\PhanNgocHien_LTWeb_G3_WebsiteBanHang\PhanNgocHien_LTWeb_G3_WebsiteBanHang\obj\Debug\net9.0\ref\PhanNgocHien_LTWeb_G3_WebsiteBanHang.dll

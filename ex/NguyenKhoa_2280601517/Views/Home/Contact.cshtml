@@ -1,0 +1,51 @@
+﻿@{
+    ViewData["Title"] = "Liên hệ";
+}
+
+<h2>Liên hệ với TÁO BMT</h2>
+
+<p>Bạn cần hỗ trợ, tư vấn sản phẩm hoặc có thắc mắc? Hãy liên hệ với chúng tôi qua các kênh sau:</p>
+
+<hr />
+
+<h4>Thông tin liên hệ</h4>
+<ul>
+    <li><strong>📞 Hotline:</strong> 091404456</li>
+    <li><strong>📧 Email:</strong> nguyenkhoa0914044556@gmail.com</li>
+    <li><strong>📍 Địa chỉ:</strong> 93 Hoàng Diệu, Điện Biên Phủ</li>
+    <li><strong>🕐 Giờ làm việc:</strong> 8:00 AM - 8:00 PM (hàng ngày)</li>
+</ul>
+
+<hr />
+
+<h4>Gửi yêu cầu nhanh</h4>
+<form asp-action="Contact" method="post">
+    <div class="form-group">
+        <label for="Name">Họ và tên</label>
+        <input type="text" class="form-control" id="Name" name="Name" placeholder="Nhập họ tên..." required />
+    </div>
+    <div class="form-group">
+        <label for="Email">Email</label>
+        <input type="email" class="form-control" id="Email" name="Email" placeholder="Nhập email của bạn..." required />
+    </div>
+    <div class="form-group">
+        <label for="Message">Nội dung</label>
+        <textarea class="form-control" id="Message" name="Message" rows="4" placeholder="Bạn cần hỗ trợ gì?" required></textarea>
+    </div>
+    <br />
+    <button type="submit" class="btn btn-primary">Gửi liên hệ</button>
+</form>
+
+<hr />
+
+<h4>Bản đồ cửa hàng</h4>
+<div style="width:100%; height:400px;">
+    <iframe width="100%"
+            height="100%"
+            frameborder="0"
+            style="border:0"
+            allowfullscreen
+            loading="lazy"
+            src="https://www.google.com/maps?q=93+Hoàng+Diệu,+Điện+Biên+Phủ&output=embed">
+    </iframe>
+</div>

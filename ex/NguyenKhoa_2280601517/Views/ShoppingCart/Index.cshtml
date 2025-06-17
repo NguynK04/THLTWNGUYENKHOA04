@@ -1,0 +1,59 @@
+﻿@using NguyenKhoa_2280601517.Models
+@model ShoppingCart
+
+@{
+    ViewData["Title"] = "Giỏ hàng của bạn";
+    var total = Model.Items.Sum(item => item.Price * item.Quantity);
+}
+
+<div class="container mt-5">
+    <h2 class="text-center mb-4">🛒 Giỏ hàng của bạn</h2>
+
+    @if (!Model.Items.Any())
+    {
+        <div class="alert alert-info text-center">
+            Giỏ hàng của bạn hiện đang trống.
+        </div>
+    }
+    else
+    {
+        <table class="table table-bordered table-hover align-middle text-center">
+            <thead class="table-dark">
+                <tr>
+                    <th>Sản phẩm</th>
+                    <th>Số lượng</th>
+                    <th>Đơn giá</th>
+                    <th>Thành tiền</th>
+                    <th>Thao tác</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model.Items)
+                {
+                    <tr>
+                        <td class="text-start">@item.Name</td>
+                        <td>@item.Quantity</td>
+                        <td>@item.Price.ToString("N0", new System.Globalization.CultureInfo("vi-VN")) đ</td>
+
+                        <td>@(item.Price * item.Quantity). Vnd</td>
+                        <td>
+                            <a asp-action="RemoveFromCart" asp-route-productId="@item.ProductId" class="btn btn-sm btn-danger">
+                                <i class="fa fa-trash"></i> Xóa
+                            </a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+        <div class="d-flex justify-content-end">
+            <h4 class="me-3">Tổng cộng:</h4>
+            <h4 class="text-danger">@total.ToString("#,##0") đ</h4>
+        </div>
+
+        <div class="text-end mt-3">
+            <a asp-controller="Home" asp-action="Index" class="btn btn-secondary">← Tiếp tục mua sắm</a>
+            <a asp-controller="Checkout" asp-action="Index" class="btn btn-primary">🧾 Thanh toán</a>
+        </div>
+    }
+</div>

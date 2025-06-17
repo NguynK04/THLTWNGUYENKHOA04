@@ -1,0 +1,232 @@
+﻿@using NguyenKhoa_2280601517.Models
+@model IEnumerable<Product>
+
+@{
+    ViewData["Title"] = "Danh sách sản phẩm"; // Tiêu đề trang
+}
+
+<h2 class="mb-4 text-primary">Quản lý Sản phẩm</h2>
+
+<div class="card shadow-sm mb-4">
+    <div class="card-header bg-light py-3">
+        <h5 class="mb-0 text-muted">Tìm kiếm & Sắp xếp</h5>
+    </div>
+    <div class="card-body">
+        <form method="get" asp-action="Index" class="d-flex flex-column flex-md-row justify-content-between align-items-center gap-3">
+            <div class="flex-grow-1 me-md-3 mb-3 mb-md-0 w-100 w-md-auto">
+                <div class="input-group">
+                    <label for="searchString" class="form-label visually-hidden">Tìm kiếm theo tên, mô tả, danh mục</label>
+                    <input type="text" id="searchString" name="searchString" value="@ViewData["CurrentSearchString"]"
+                    placeholder="Tên, mô tả, danh mục..." class="form-control" />
+
+                    <span class="input-group-text"><i class="bi bi-currency-dollar"></i></span>
+                    <label for="priceSearchValue" class="form-label visually-hidden">Giá tiệm cận</label>
+                    <input type="number" id="priceSearchValue" name="priceSearchValue" value="@ViewData["CurrentPriceSearchValue"]"
+                    step="0.01" class="form-control" placeholder="Giá" style="max-width: 120px;" />
+
+                    <button type="submit" class="btn btn-primary"><i class="bi bi-search"></i> Tìm kiếm</button>
+                    <a asp-action="Index" class="btn btn-outline-secondary"><i class="bi bi-x-circle"></i> Xem tất cả</a>
+                </div>
+            </div>
+
+            <div class="d-flex flex-column flex-sm-row justify-content-end align-items-stretch align-items-sm-center gap-2 w-100 w-md-auto">
+                <select name="sortOrder" class="form-select w-auto" onchange="this.form.submit()">
+                    <option value="">Sắp xếp theo</option>
+                    <option value="name_asc" selected="@("name_asc" == ViewData["SortOrder"]?.ToString())">Tên A-Z</option>
+                    <option value="name_desc" selected="@("name_desc" == ViewData["SortOrder"]?.ToString())">Tên Z-A</option>
+                    <option value="price_asc" selected="@("price_asc" == ViewData["SortOrder"]?.ToString())">Giá tăng dần</option>
+                    <option value="price_desc" selected="@("price_desc" == ViewData["SortOrder"]?.ToString())">Giá giảm dần</option>
+                </select>
+                @if (User.IsInRole("Admin"))
+                {
+                    <a asp-action="Add" class="btn btn-success text-nowrap"><i class="bi bi-plus-circle"></i> Thêm mới sản phẩm</a>
+                }
+            </div>
+        </form>
+    </div>
+</div>
+
+<div class="product-cards-container">
+    @if (Model.Any())
+    {
+        <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 g-4">
+            @foreach (var product in Model)
+            {
+                <div class="col">
+                    <div class="card h-100 shadow-sm product-card">
+                        <div class="product-img-wrapper"> @if (!string.IsNullOrEmpty(product.ImageUrl))
+                            {
+                                <img src="@product.ImageUrl" class="card-img-top product-img" alt="@product.Name">
+                            }
+                            else
+                            {
+                                <div class="product-img d-flex align-items-center justify-content-center bg-light text-muted">
+                                    <i class="bi bi-image" style="font-size: 3rem;"></i>
+                                    <span class="visually-hidden">Không có hình ảnh</span>
+                                </div>
+                            }
+                            <div class="product-actions-overlay d-flex justify-content-center align-items-center gap-2">
+                                @if (User.Identity.IsAuthenticated)
+                                {
+                                    <a class="btn btn-sm btn-info text-white" asp-action="Display" asp-route-id="@product.Id" title="Xem chi tiết">
+                                        <i class="bi bi-eye-fill"></i> Xem
+                                    </a>
+                                }
+                                @if (User.IsInRole("Admin") || User.IsInRole("Employee"))
+                                {
+                                    <a class="btn btn-sm btn-warning text-dark" asp-action="Update" asp-route-id="@product.Id" title="Chỉnh sửa">
+                                        <i class="bi bi-pencil-square"></i> Sửa
+                                    </a>
+                                }
+
+                                @if (User.IsInRole("Admin"))
+                                {
+                                    <a class="btn btn-sm btn-danger" asp-action="Delete" asp-route-id="@product.Id" title="Xóa">
+                                        <i class="bi bi-trash-fill"></i> Xóa
+                                    </a>
+                                }
+                            </div>
+                        </div>
+
+                        <div class="card-body d-flex flex-column">
+                            <h5 class="card-title text-primary text-truncate" title="@product.Name">@product.Name</h5>
+                            <p class="card-text mb-1">
+                                <strong class="text-success">@product.Price.ToString("N0") VNĐ</strong>
+                            </p>
+                            <p class="card-text text-muted text-truncate-3" title="@product.Description">
+                                @(string.IsNullOrEmpty(product.Description) ? "Không có mô tả." : product.Description)
+                            </p>
+                            <div class="mt-auto">
+                                <span class="badge bg-info text-dark">@(product.Category != null ? product.Category.Name : "Không phân loại")</span>
+
+                                @* Nút "Thêm vào giỏ hàng" cho khách hàng *@
+                                @if (User.IsInRole("Customer"))
+                                {
+                                    <form asp-controller="ShoppingCart" asp-action="AddToCart" method="post" class="mt-2">
+
+                                        <input type="hidden" name="productId" value="@product.Id" />
+                                        <button type="submit" class="btn btn-outline-dark w-100">
+                                            <i class="bi bi-cart-fill me-1"></i> Add to Cart
+                                        </button>
+                                    </form>
+                                }
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            }
+        </div>
+    }
+    else
+    {
+        <div class="alert alert-info text-center" role="alert">
+            <i class="bi bi-info-circle-fill me-2"></i> Không tìm thấy sản phẩm nào khớp với tiêu chí tìm kiếm của bạn.
+        </div>
+    }
+</div>
+
+@section Scripts {
+    <script>
+        // Các script tùy chọn có thể thêm vào đây, ví dụ: debounce cho tìm kiếm
+        // nếu bạn muốn trì hoãn việc gửi form khi người dùng đang gõ.
+    </script>
+}
+
+<style>
+    /* CSS cho các card sản phẩm và hiệu ứng hover */
+    .product-cards-container {
+        padding-top: 20px; /* Khoảng cách từ form tìm kiếm */
+    }
+
+    .product-card {
+        transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+        border-radius: 8px; /* Bo tròn góc card */
+        overflow: hidden; /* Đảm bảo nội dung và hình ảnh bo tròn theo card */
+    }
+
+        .product-card:hover {
+            transform: translateY(-5px); /* Nâng nhẹ card lên */
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15); /* Đổ bóng mạnh hơn */
+        }
+
+    /* Wrapper cho hình ảnh và overlay */
+    .product-img-wrapper {
+        position: relative;
+        overflow: hidden;
+        height: 180px; /* Chiều cao cố định cho wrapper ảnh */
+        border-bottom: 1px solid #eee;
+        background-color: #f8f9fa; /* QUAN TRỌNG: Màu nền cho khoảng trống khi ảnh không lấp đầy */
+        /* Bạn có thể đổi thành #fff (trắng) hoặc màu khác tùy ý */
+        /* Việc để màu này giống với màu placeholder tạo sự nhất quán */
+    }
+
+    .product-img {
+        width: 100%;
+        height: 100%; /* Đảm bảo ảnh lấp đầy wrapper */
+        object-fit: contain; /* THAY ĐỔI CHÍNH: Hiển thị toàn bộ ảnh, giữ tỷ lệ */
+        display: block; /* Loại bỏ khoảng trắng dưới ảnh */
+        transition: transform 0.3s ease-in-out; /* Hiệu ứng zoom nhẹ khi hover */
+    }
+
+    .product-card:hover .product-img {
+        transform: scale(1.05); /* Zoom nhẹ ảnh khi hover (vẫn hoạt động tốt với contain) */
+    }
+
+    /* Placeholder khi không có ảnh */
+    /* Class .product-img trên div placeholder sẽ không bị ảnh hưởng bởi object-fit vì nó là div, không phải img */
+    .product-img-wrapper .product-img.d-flex { /* Làm rõ selector cho placeholder */
+        background-color: #f8f9fa; /* Màu nền cho placeholder ảnh (giữ nguyên) */
+        color: #ced4da; /* Màu icon (giữ nguyên) */
+    }
+
+    /* Overlay cho các nút hành động */
+    .product-actions-overlay {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.6); /* Nền mờ cho overlay */
+        color: white;
+        opacity: 0; /* Ban đầu ẩn */
+        transition: opacity 0.3s ease-in-out;
+        pointer-events: none; /* Cho phép click xuyên qua khi ẩn */
+        z-index: 2; /* Đảm bảo overlay nằm trên ảnh */
+    }
+
+    .product-card:hover .product-actions-overlay {
+        opacity: 1; /* Hiển thị khi hover */
+        pointer-events: auto; /* Cho phép click khi hiển thị */
+    }
+
+    /* Định dạng văn bản và các phần khác trong card */
+    .card-title {
+        font-size: 1.25rem;
+        font-weight: 600;
+        margin-bottom: 0.5rem;
+    }
+
+    .card-text.text-truncate-3 {
+        /* CSS để giới hạn mô tả chỉ hiển thị 3 dòng */
+        display: -webkit-box;
+        -webkit-line-clamp: 3;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        min-height: 3.6em; /* Khoảng 3 dòng dựa trên line-height mặc định */
+    }
+
+    /* Đảm bảo badge vẫn nằm ở cuối card-body */
+    .card-body .mt-auto {
+        padding-top: 1rem;
+        border-top: 1px solid #eee; /* Đường kẻ trên badge để phân tách */
+        margin-top: 1rem !important;
+    }
+
+    /* Tùy chọn: Làm tròn các nút trong overlay hoặc điều chỉnh kích thước */
+    .product-actions-overlay .btn {
+        border-radius: 50rem; /* Nút hình viên thuốc */
+        padding: .5rem 1rem; /* Tăng padding để nút lớn hơn một chút */
+    }
+</style>

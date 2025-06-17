@@ -1,0 +1,75 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Trang Quản Trị</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+    <link rel="stylesheet" href="~/css/admin-style.css" asp-append-version="true" />
+    @await RenderSectionAsync("Styles", required: false)
+
+</head>
+<body>
+    <div class="d-flex" id="wrapper">
+        <div class="bg-dark border-right" id="sidebar-wrapper">
+            <div class="sidebar-heading">
+                <a class="text-light" asp-area="Admin" asp-controller="ProductManager" asp-action="Index">
+                    <i class="fas fa-cogs me-2"></i>Trang Admin
+                </a>
+            </div>
+            <div class="list-group list-group-flush">
+              
+                <a asp-area="Admin" asp-controller="CategoriesManager" asp-action="Index" class="list-group-item list-group-item-action bg-dark text-light">
+                    <i class="fas fa-sitemap me-2"></i>Quản lý danh mục
+                </a>
+                <a asp-area="Admin" asp-controller="User" asp-action="Index" class="list-group-item list-group-item-action bg-dark text-light">
+                    <i class="fas fa-users me-2"></i>Quản lý người dùng
+                </a>
+                <a asp-area="Admin" asp-controller="ProductManager" asp-action="Index" class="list-group-item list-group-item-action bg-dark text-light">
+                    <i class="fas fa-box-open me-2"></i>Quản lý sản phẩm
+                </a>
+               
+            </div>
+        </div>
+        <div id="page-content-wrapper">
+            <nav class="navbar navbar-expand-lg navbar-light bg-light border-bottom">
+                <div class="container-fluid">
+                    <button class="btn btn-primary" id="menu-toggle"><i class="fas fa-bars"></i></button>
+
+                    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                        <ul class="navbar-nav ms-auto mt-2 mt-lg-0">
+                            <partial name="_LoginPartial" />
+                        </ul>
+                    </div>
+                </div>
+            </nav>
+
+            <div class="container-fluid p-4">
+                <main role="main" class="pb-3">
+                    @RenderBody()
+                </main>
+            </div>
+
+            <footer class="border-top footer text-muted mt-auto py-3 bg-light">
+                <div class="container-fluid text-center">
+                    &copy; 2025 - Trang Quản Trị
+                </div>
+            </footer>
+        </div>
+    </div>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    <script>
+        // Toggle the side navigation
+        $("#menu-toggle").click(function(e) {
+            e.preventDefault();
+            $("#wrapper").toggleClass("toggled");
+        });
+    </script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

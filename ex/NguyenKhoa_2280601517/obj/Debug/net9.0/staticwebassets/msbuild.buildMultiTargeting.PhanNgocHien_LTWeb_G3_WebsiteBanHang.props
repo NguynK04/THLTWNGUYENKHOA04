@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PhanNgocHien_LTWeb_G3_WebsiteBanHang.props" />
+</Project>

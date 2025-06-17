@@ -1,0 +1,59 @@
+﻿@using NguyenKhoa_2280601517.Models
+@model Category
+
+@{
+    ViewData["Title"] = "THÊM MỚI DANH MỤC";
+}
+
+<h2 class="mb-4 text-primary">@ViewData["Title"]</h2>
+
+<div class="row justify-content-center">
+    <div class="col-md-8 col-lg-6">
+      
+        <div class="card shadow-sm mb-4">
+            <div class="card-header bg-light py-3">
+                <h5 class="mb-0 text-muted">
+                    <i class="bi bi-tag-fill me-2"></i>Nhập thông tin cho danh mục mới
+                </h5>
+            </div>
+            <div class="card-body">
+                <form asp-action="Add" method="post">
+                    @Html.AntiForgeryToken() @* Nên có để bảo vệ form *@
+                    <div asp-validation-summary="ModelOnly" class="text-danger mb-3" role="alert"></div>
+
+                    <div class="mb-3">
+                        <label asp-for="Name" class="form-label">Tên danh mục</label>
+                        <input asp-for="Name" class="form-control" placeholder="Ví dụ: Điện tử, Thời trang, Sách..." />
+                        <span asp-validation-for="Name" class="text-danger"></span>
+                    </div>
+
+                    @* Nếu bạn có thêm các trường khác cho Category (ví dụ: Mô tả), hãy thêm chúng vào đây *@
+                    @*
+                    <div class="mb-3">
+                        <label asp-for="Description" class="form-label">Mô tả (tùy chọn)</label>
+                        <textarea asp-for="Description" class="form-control" rows="3" placeholder="Mô tả ngắn về danh mục..."></textarea>
+                        <span asp-validation-for="Description" class="text-danger"></span>
+                    </div>
+                    *@
+
+                    <hr class="my-4" />
+
+                    <div class="d-flex justify-content-end gap-2">
+                        <a asp-action="Index" class="btn btn-outline-secondary">
+                            <i class="bi bi-x-circle"></i> Hủy bỏ
+                        </a>
+                        <button type="submit" class="btn btn-primary">
+                            <i class="bi bi-plus-circle-fill"></i> Thêm mới
+                        </button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
